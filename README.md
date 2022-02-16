@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taslim ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Taslimism}.${README.md})
+- 👋 Hi, I’m Taslim ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Taslimism})
 - 👀 I’m interested in coding(obviously), reading(a lot), drawing(a lot), and hip-hop.
 - 🌱 I’m currently learning Socket.IO and all things Front-end.
 - 💞️ I’m looking to collaborate on NodeJS projects.
