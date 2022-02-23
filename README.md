@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taslim
+- 👋 Hi, I’m Taslim ![](https://api.visitorbadge.io/api/VisitorHit?user=Taslimism&repo=github-visitors-badge&countColor=%237B1E7A)
 - 👀 I’m interested in coding(obviously), reading(a lot), drawing(a lot), and hip-hop.
 - 🌱 I’m currently learning Socket.IO and all things Front-end.
 - 💞️ I’m looking to collaborate on NodeJS projects.
