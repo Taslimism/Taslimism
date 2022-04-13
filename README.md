@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=Taslimism&repo=github-visitors-badge)
+
 - 👋 Hi, I’m Taslim 
 - 👀 I’m interested in coding(obviously), reading(a lot), drawing(a lot), and hip-hop.
 - 🌱 I’m currently learning Socket.IO and all things Front-end.
